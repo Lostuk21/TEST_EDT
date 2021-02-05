@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="0109216f-c5fa-4c19-ab8c-faca19169079">
+  <name>Закупки</name>
+  <synonym>
+    <key>ru</key>
+    <value>Закупки</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <content>Document.ПоступлениеТоваров</content>
+  <content>Document.СчетНаОплатуПокупателю</content>
+  <content>Document.РасходныйКассовыйОрдер</content>
+  <content>Document.РеализацияТоваров</content>
+  <content>Document.ЗаказПокупателя</content>
+  <content>Document.Анкета</content>
+  <content>Document.Встреча</content>
+  <content>Document.ЗапланированноеВзаимодействие</content>
+  <content>Document.НазначениеОпросов</content>
+  <content>Document.ОтзывСогласияНаОбработкуПерсональныхДанных</content>
+  <content>Document.СогласиеНаОбработкуПерсональныхДанных</content>
+  <content>Document.ТелефонныйЗвонок</content>
+  <content>Document.СообщениеSMS</content>
+</mdclass:Subsystem>
