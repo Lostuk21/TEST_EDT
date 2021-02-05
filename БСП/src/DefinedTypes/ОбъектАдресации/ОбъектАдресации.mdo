@@ -10,7 +10,7 @@
   </synonym>
   <type>
     <types>CatalogRef._ДемоПодразделения</types>
-    <types>CatalogRef._ДемоОрганизации</types>
+    <types>CatalogRef.Организации</types>
     <types>CatalogRef._ДемоПроекты</types>
     <types>CatalogRef.ИдентификаторыОбъектовМетаданных</types>
   </type>

@@ -119,7 +119,7 @@
   </objectPresentation>
   <type>
     <types>CatalogRef._ДемоПодразделения</types>
-    <types>CatalogRef._ДемоОрганизации</types>
+    <types>CatalogRef.Организации</types>
     <types>CatalogRef._ДемоПроекты</types>
   </type>
   <foldersOnTop>true</foldersOnTop>
@@ -131,7 +131,7 @@
       <description>Все объекты адресации</description>
       <type>
         <types>CatalogRef._ДемоПодразделения</types>
-        <types>CatalogRef._ДемоОрганизации</types>
+        <types>CatalogRef.Организации</types>
         <types>CatalogRef._ДемоПроекты</types>
       </type>
     </items>
@@ -139,7 +139,7 @@
       <name>_ДемоОрганизация</name>
       <description>Демо: Организация</description>
       <type>
-        <types>CatalogRef._ДемоОрганизации</types>
+        <types>CatalogRef.Организации</types>
       </type>
     </items>
     <items id="f1726d49-7fc3-4906-9e7e-a42c8c08f789">

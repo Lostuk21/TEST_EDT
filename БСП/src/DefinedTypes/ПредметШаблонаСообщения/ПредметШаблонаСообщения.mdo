@@ -15,7 +15,7 @@
     <types>CatalogRef._ДемоКонтактныеЛицаПартнеров</types>
     <types>CatalogRef._ДемоКонтрагенты</types>
     <types>DocumentRef.НазначениеОпросов</types>
-    <types>CatalogRef._ДемоОрганизации</types>
+    <types>CatalogRef.Организации</types>
     <types>CatalogRef.ИдентификаторыОбъектовМетаданных</types>
   </type>
 </mdclass:DefinedType>

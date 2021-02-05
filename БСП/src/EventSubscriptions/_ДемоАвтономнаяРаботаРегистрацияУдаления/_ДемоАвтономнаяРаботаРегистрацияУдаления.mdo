@@ -28,7 +28,7 @@
     <types>CatalogObject._ДемоГруппыДоступаПартнеров</types>
     <types>CatalogObject._ДемоФизическиеЛица</types>
     <types>CatalogObject._ДемоПроектыПрисоединенныеФайлы</types>
-    <types>CatalogObject._ДемоОрганизации</types>
+    <types>CatalogObject.Организации</types>
     <types>ChartOfCharacteristicTypesObject._ДемоВидыСубконто</types>
     <types>DocumentObject.РасходныйКассовыйОрдер</types>
     <types>DocumentObject._ДемоПеремещениеТоваров</types>

@@ -7,7 +7,7 @@
   </synonym>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
-  <content>Catalog._ДемоОрганизации</content>
+  <content>Catalog.Организации</content>
   <content>Document.РеализацияТоваров</content>
   <content>FunctionalOption._ДемоИспользоватьНесколькоОрганизаций</content>
   <content>DataProcessor._ДемоПечатьКарточкиОрганизации</content>

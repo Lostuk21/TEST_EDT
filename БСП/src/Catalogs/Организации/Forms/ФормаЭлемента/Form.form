@@ -1905,7 +1905,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>CatalogObject._ДемоОрганизации</types>
+      <types>CatalogObject.Организации</types>
     </valueType>
     <view>
       <common>true</common>

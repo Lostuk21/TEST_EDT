@@ -66,7 +66,7 @@
   <content>CommonForm.НастройкиРегистрацииСобытийДоступаКПерсональнымДанным</content>
   <content>DataProcessor.ЗагрузкаКурсовВалют</content>
   <content>Catalog.КлассификаторБанков</content>
-  <content>Catalog._ДемоОрганизации</content>
+  <content>Catalog.Организации</content>
   <content>CommonForm.ВходВОбластьДанных</content>
   <content>CommonCommand.ДобавитьПользователейСервиса</content>
   <content>InformationRegister.ВерсииПодсистемОбластейДанных</content>

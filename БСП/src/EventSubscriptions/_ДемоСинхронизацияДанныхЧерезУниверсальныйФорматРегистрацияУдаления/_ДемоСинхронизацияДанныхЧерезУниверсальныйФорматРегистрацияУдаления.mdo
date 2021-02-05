@@ -10,7 +10,7 @@
     <types>DocumentObject.ПоступлениеТоваров</types>
     <types>DocumentObject._ДемоКорректировкаОстатковТоваровВМестахХранения</types>
     <types>CatalogObject._ДемоФизическиеЛица</types>
-    <types>CatalogObject._ДемоОрганизации</types>
+    <types>CatalogObject.Организации</types>
     <types>CatalogObject.Валюты</types>
   </source>
   <event>BeforeDelete</event>

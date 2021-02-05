@@ -726,7 +726,7 @@
     <mdObject>Catalog.СообщениеSMSПрисоединенныеФайлы</mdObject>
   </content>
   <content>
-    <mdObject>Catalog._ДемоОрганизации</mdObject>
+    <mdObject>Catalog.Организации</mdObject>
   </content>
   <content>
     <mdObject>InformationRegister.СертификатыШифрования</mdObject>

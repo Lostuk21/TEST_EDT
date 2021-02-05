@@ -170,7 +170,7 @@
       <value>Демо: Организация</value>
     </synonym>
     <type>
-      <types>CatalogRef._ДемоОрганизации</types>
+      <types>CatalogRef.Организации</types>
     </type>
     <toolTip>
       <key>ru</key>

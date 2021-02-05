@@ -23,7 +23,7 @@
   <content>Catalog._ДемоФизическиеЛица</content>
   <content>Catalog._ДемоНоменклатура</content>
   <content>Catalog._ДемоМестаХранения</content>
-  <content>Catalog._ДемоОрганизации</content>
+  <content>Catalog.Организации</content>
   <subsystems>_ДемоАдресныйКлассификатор</subsystems>
   <subsystems>_ДемоБанки</subsystems>
   <subsystems>_ДемоВалюты</subsystems>

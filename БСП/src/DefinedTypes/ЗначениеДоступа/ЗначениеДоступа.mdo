@@ -25,7 +25,7 @@
     <types>CatalogRef.ДополнительныеОтчетыИОбработки</types>
     <types>CatalogRef._ДемоПартнеры</types>
     <types>CatalogRef.Пользователи</types>
-    <types>CatalogRef._ДемоОрганизации</types>
+    <types>CatalogRef.Организации</types>
     <types>CatalogRef.ГруппыИсполнителейЗадач</types>
     <types>CatalogRef._ДемоМестаХранения</types>
     <types>CatalogRef._ДемоКассы</types>

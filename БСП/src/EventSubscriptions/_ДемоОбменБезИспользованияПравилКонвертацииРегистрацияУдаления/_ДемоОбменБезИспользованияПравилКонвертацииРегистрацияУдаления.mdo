@@ -10,7 +10,7 @@
     <types>DocumentObject.РеализацияТоваров</types>
     <types>DocumentObject.ПоступлениеТоваров</types>
     <types>CatalogObject._ДемоФизическиеЛица</types>
-    <types>CatalogObject._ДемоОрганизации</types>
+    <types>CatalogObject.Организации</types>
     <types>ChartOfCharacteristicTypesObject._ДемоВидыСубконто</types>
     <types>CatalogObject._ДемоПодразделения</types>
     <types>CatalogObject.Валюты</types>

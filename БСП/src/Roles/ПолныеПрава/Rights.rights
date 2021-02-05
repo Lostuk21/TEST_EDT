@@ -6282,7 +6282,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog._ДемоОрганизации</name>
+		<name>Catalog.Организации</name>
 		<right>
 			<name>InteractiveDelete</name>
 			<value>false</value>

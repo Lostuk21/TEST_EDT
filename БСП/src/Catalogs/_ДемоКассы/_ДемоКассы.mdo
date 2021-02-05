@@ -68,7 +68,7 @@
     </toolTip>
     <fillFromFillingValue>true</fillFromFillingValue>
     <fillValue xsi:type="core:ReferenceValue">
-      <value>Catalog._ДемоОрганизации.EmptyRef</value>
+      <value>Catalog.Организации.EmptyRef</value>
     </fillValue>
     <fillChecking>ShowError</fillChecking>
     <fullTextSearch>Use</fullTextSearch>
@@ -119,7 +119,7 @@
   </objectPresentation>
   <levelCount>2</levelCount>
   <foldersOnTop>true</foldersOnTop>
-  <owners>Catalog._ДемоОрганизации</owners>
+  <owners>Catalog.Организации</owners>
   <descriptionLength>150</descriptionLength>
   <codeType>String</codeType>
   <codeAllowedLength>Variable</codeAllowedLength>
