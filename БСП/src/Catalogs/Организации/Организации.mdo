@@ -7,14 +7,14 @@
     <listType typeId="63076410-b5e1-4398-bb5e-849270aacf1e" valueTypeId="41cf9e1b-808a-42b8-8dc7-370a8404decd"/>
     <managerType typeId="f43400e4-a03e-421e-b83a-a63c1bce6260" valueTypeId="6b29f0a4-04b2-43d9-a832-f0962a661cd9"/>
   </producedTypes>
-  <name>_ДемоОрганизации</name>
+  <name>Организации</name>
   <synonym>
     <key>ru</key>
-    <value>Демо: Организации</value>
+    <value>Организации</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
-  <inputByString>Catalog._ДемоОрганизации.StandardAttribute.Description</inputByString>
-  <inputByString>Catalog._ДемоОрганизации.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.Организации.StandardAttribute.Description</inputByString>
+  <inputByString>Catalog.Организации.StandardAttribute.Code</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
   <standardAttributes>
     <dataHistory>Use</dataHistory>
@@ -107,10 +107,10 @@
     <typesFilterValue xsi:type="core:ReferenceValue">
       <value>Catalog.ВидыКонтактнойИнформации.Справочник_ДемоОрганизации</value>
     </typesFilterValue>
-    <characteristicValues>Catalog._ДемоОрганизации.TabularSection.КонтактнаяИнформация</characteristicValues>
-    <objectField>Catalog._ДемоОрганизации.TabularSection.КонтактнаяИнформация.StandardAttribute.Ref</objectField>
-    <typeField>Catalog._ДемоОрганизации.TabularSection.КонтактнаяИнформация.Attribute.ВидДляСписка</typeField>
-    <valueField>Catalog._ДемоОрганизации.TabularSection.КонтактнаяИнформация.Attribute.Представление</valueField>
+    <characteristicValues>Catalog.Организации.TabularSection.КонтактнаяИнформация</characteristicValues>
+    <objectField>Catalog.Организации.TabularSection.КонтактнаяИнформация.StandardAttribute.Ref</objectField>
+    <typeField>Catalog.Организации.TabularSection.КонтактнаяИнформация.Attribute.ВидДляСписка</typeField>
+    <valueField>Catalog.Организации.TabularSection.КонтактнаяИнформация.Attribute.Представление</valueField>
   </characteristics>
   <createOnInput>Use</createOnInput>
   <includeHelpInContents>true</includeHelpInContents>
@@ -123,7 +123,7 @@
   <fullTextSearch>Use</fullTextSearch>
   <objectPresentation>
     <key>ru</key>
-    <value>Демо: Организация</value>
+    <value>Организация</value>
   </objectPresentation>
   <levelCount>2</levelCount>
   <foldersOnTop>true</foldersOnTop>
@@ -136,7 +136,7 @@
   <defaultPresentation>AsDescription</defaultPresentation>
   <editType>InDialog</editType>
   <choiceMode>BothWays</choiceMode>
-  <defaultObjectForm>Catalog._ДемоОрганизации.Form.ФормаЭлемента</defaultObjectForm>
+  <defaultObjectForm>Catalog.Организации.Form.ФормаЭлемента</defaultObjectForm>
   <attributes uuid="d6c79ad1-a496-4858-8481-6aa17ce30404">
     <name>БИК</name>
     <synonym>
@@ -435,7 +435,7 @@
       <value>Головная организация</value>
     </synonym>
     <type>
-      <types>CatalogRef._ДемоОрганизации</types>
+      <types>CatalogRef.Организации</types>
     </type>
     <toolTip>
       <key>ru</key>

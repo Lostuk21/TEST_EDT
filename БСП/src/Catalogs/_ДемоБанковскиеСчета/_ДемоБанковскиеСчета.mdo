@@ -181,7 +181,7 @@
   </explanation>
   <levelCount>2</levelCount>
   <foldersOnTop>true</foldersOnTop>
-  <owners>Catalog._ДемоОрганизации</owners>
+  <owners>Catalog.Организации</owners>
   <owners>Catalog._ДемоКонтрагенты</owners>
   <codeLength>9</codeLength>
   <descriptionLength>100</descriptionLength>
@@ -816,7 +816,7 @@
     </synonym>
     <group>FormNavigationPanelGoTo</group>
     <commandParameterType>
-      <types>CatalogRef._ДемоОрганизации</types>
+      <types>CatalogRef.Организации</types>
     </commandParameterType>
     <representation>Auto</representation>
     <shortcut></shortcut>

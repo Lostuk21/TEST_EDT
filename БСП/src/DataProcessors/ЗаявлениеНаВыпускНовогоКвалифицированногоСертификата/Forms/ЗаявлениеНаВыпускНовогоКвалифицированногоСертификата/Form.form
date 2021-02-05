@@ -10134,7 +10134,7 @@
   <parameters>
     <name>Организация</name>
     <valueType>
-      <types>CatalogRef._ДемоОрганизации</types>
+      <types>CatalogRef.Организации</types>
     </valueType>
   </parameters>
   <commandInterface>

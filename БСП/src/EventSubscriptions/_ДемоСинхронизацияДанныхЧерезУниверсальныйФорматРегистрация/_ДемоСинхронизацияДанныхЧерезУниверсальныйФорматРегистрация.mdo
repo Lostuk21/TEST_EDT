@@ -9,7 +9,7 @@
     <types>CatalogObject._ДемоНоменклатура</types>
     <types>CatalogObject.СтраныМира</types>
     <types>CatalogObject._ДемоФизическиеЛица</types>
-    <types>CatalogObject._ДемоОрганизации</types>
+    <types>CatalogObject.Организации</types>
     <types>CatalogObject.Валюты</types>
     <types>CatalogObject._ДемоКонтрагенты</types>
     <types>CatalogObject._ДемоМестаХранения</types>

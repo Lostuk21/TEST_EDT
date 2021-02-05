@@ -116,7 +116,7 @@
       <visible/>
     </visibilityFragments>
     <visibilityFragments>
-      <command>Catalog._ДемоОрганизации.StandardCommand.OpenList</command>
+      <command>Catalog.Организации.StandardCommand.OpenList</command>
       <visible/>
     </visibilityFragments>
     <visibilityFragments>
@@ -483,7 +483,7 @@
       <commands>InformationRegister.АдресныеОбъекты.Command.ЗагрузитьАдресныйКлассификатор</commands>
       <commands>InformationRegister.АдресныеОбъекты.Command.ПодключитьИнтернетПоддержку</commands>
       <commands>InformationRegister.АдресныеОбъекты.Command.ОчиститьАдресныйКлассификатор</commands>
-      <commands>Catalog._ДемоОрганизации.StandardCommand.OpenList</commands>
+      <commands>Catalog.Организации.StandardCommand.OpenList</commands>
       <commands>Catalog.НаборыДополнительныхРеквизитовИСведений.Command.ДополнительныеРеквизиты</commands>
       <commands>Catalog.НаборыДополнительныхРеквизитовИСведений.Command.ДополнительныеСведения</commands>
       <commands>CommonCommand.ПредупрежденияПриСинхронизацииДанных</commands>

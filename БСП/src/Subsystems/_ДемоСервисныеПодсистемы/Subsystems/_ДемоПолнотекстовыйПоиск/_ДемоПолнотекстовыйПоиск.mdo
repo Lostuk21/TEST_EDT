@@ -9,7 +9,7 @@
   <includeInCommandInterface>true</includeInCommandInterface>
   <content>DataProcessor.ПолнотекстовыйПоискВДанных</content>
   <content>Catalog._ДемоКонтрагенты</content>
-  <content>Catalog._ДемоОрганизации</content>
+  <content>Catalog.Организации</content>
   <content>Catalog.Файлы</content>
   <content>Catalog._ДемоПартнеры</content>
   <content>CommonPicture._ДемоРазделГлавное</content>

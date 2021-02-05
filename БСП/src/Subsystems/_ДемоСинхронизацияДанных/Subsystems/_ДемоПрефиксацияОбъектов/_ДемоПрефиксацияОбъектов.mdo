@@ -19,7 +19,7 @@
   <content>Constant._ДемоИспользоватьНесколькоОрганизаций</content>
   <content>Constant._ДемоНеИспользоватьНесколькоОрганизаций</content>
   <content>FunctionalOption._ДемоПрефиксыОрганизаций</content>
-  <content>Catalog._ДемоОрганизации</content>
+  <content>Catalog.Организации</content>
   <content>FunctionalOptionsParameter._ДемоОрганизация</content>
   <content>FunctionalOption._ДемоИспользоватьНесколькоОрганизаций</content>
   <subsystems>Использование</subsystems>

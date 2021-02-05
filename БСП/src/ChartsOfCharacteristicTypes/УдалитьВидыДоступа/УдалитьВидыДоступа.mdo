@@ -113,7 +113,7 @@
     <types>CatalogRef.ГруппыПользователей</types>
     <types>ChartOfCharacteristicTypesRef.ДополнительныеРеквизитыИСведения</types>
     <types>CatalogRef.Пользователи</types>
-    <types>CatalogRef._ДемоОрганизации</types>
+    <types>CatalogRef.Организации</types>
     <types>CatalogRef._ДемоМестаХранения</types>
     <types>CatalogRef.УчетныеЗаписиЭлектроннойПочты</types>
     <types>CatalogRef._ДемоГруппыДоступаПартнеров</types>
@@ -177,7 +177,7 @@
       <name>Организации</name>
       <description>Организации</description>
       <type>
-        <types>CatalogRef._ДемоОрганизации</types>
+        <types>CatalogRef.Организации</types>
       </type>
     </items>
     <items id="cd687fc6-0a9e-4977-9fd1-70bbea344344">

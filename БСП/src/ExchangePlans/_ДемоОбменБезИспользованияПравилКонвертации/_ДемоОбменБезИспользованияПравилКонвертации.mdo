@@ -127,7 +127,7 @@
     <mdObject>ChartOfCharacteristicTypes._ДемоВидыСубконто</mdObject>
   </content>
   <content>
-    <mdObject>Catalog._ДемоОрганизации</mdObject>
+    <mdObject>Catalog.Организации</mdObject>
   </content>
   <content>
     <mdObject>Catalog._ДемоНоменклатура</mdObject>
@@ -236,7 +236,7 @@
         <value>Организация</value>
       </synonym>
       <type>
-        <types>CatalogRef._ДемоОрганизации</types>
+        <types>CatalogRef.Организации</types>
       </type>
       <toolTip>
         <key>ru</key>

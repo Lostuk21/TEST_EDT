@@ -1962,7 +1962,7 @@
   <catalogs>Catalog._ДемоМестаХранения</catalogs>
   <catalogs>Catalog._ДемоНоменклатура</catalogs>
   <catalogs>Catalog._ДемоНоменклатураПрисоединенныеФайлы</catalogs>
-  <catalogs>Catalog._ДемоОрганизации</catalogs>
+  <catalogs>Catalog.Организации</catalogs>
   <catalogs>Catalog._ДемоПартнеры</catalogs>
   <catalogs>Catalog._ДемоПодразделения</catalogs>
   <catalogs>Catalog._ДемоПроекты</catalogs>

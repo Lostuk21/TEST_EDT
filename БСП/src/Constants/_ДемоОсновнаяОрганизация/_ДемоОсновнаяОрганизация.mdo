@@ -11,7 +11,7 @@
     <value>Демо: Основная организация</value>
   </synonym>
   <type>
-    <types>CatalogRef._ДемоОрганизации</types>
+    <types>CatalogRef.Организации</types>
   </type>
   <useStandardCommands>true</useStandardCommands>
   <minValue xsi:type="core:UndefinedValue"/>

@@ -17,7 +17,7 @@
   <content>Catalog._ДемоФизическиеЛица</content>
   <content>Catalog.Валюты</content>
   <content>Catalog.ВидыКонтактнойИнформации</content>
-  <content>Catalog._ДемоОрганизации</content>
+  <content>Catalog.Организации</content>
   <content>Document.ПоступлениеТоваров</content>
   <content>Document.РеализацияТоваров</content>
   <content>ChartOfCharacteristicTypes._ДемоВидыСубконто</content>

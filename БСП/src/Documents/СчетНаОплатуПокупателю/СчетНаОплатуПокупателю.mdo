@@ -411,7 +411,7 @@
       <value>Организация</value>
     </synonym>
     <type>
-      <types>CatalogRef._ДемоОрганизации</types>
+      <types>CatalogRef.Организации</types>
     </type>
     <toolTip>
       <key>ru</key>
@@ -421,7 +421,7 @@
     <maxValue xsi:type="core:UndefinedValue"/>
     <fillChecking>ShowError</fillChecking>
     <fillValue xsi:type="core:ReferenceValue">
-      <value>Catalog._ДемоОрганизации.EmptyRef</value>
+      <value>Catalog.Организации.EmptyRef</value>
     </fillValue>
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>

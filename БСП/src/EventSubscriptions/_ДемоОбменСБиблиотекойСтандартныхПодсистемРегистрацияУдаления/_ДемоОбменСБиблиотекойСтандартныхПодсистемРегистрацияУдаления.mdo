@@ -14,7 +14,7 @@
     <types>DocumentObject.ПоступлениеТоваров</types>
     <types>DocumentObject._ДемоКорректировкаОстатковТоваровВМестахХранения</types>
     <types>CatalogObject._ДемоФизическиеЛица</types>
-    <types>CatalogObject._ДемоОрганизации</types>
+    <types>CatalogObject.Организации</types>
     <types>CatalogObject._ДемоСтавкиНДС</types>
     <types>CatalogObject._ДемоПодразделения</types>
     <types>CatalogObject.Валюты</types>

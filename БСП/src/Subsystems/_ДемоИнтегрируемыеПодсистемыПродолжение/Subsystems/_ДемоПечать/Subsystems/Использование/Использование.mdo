@@ -11,7 +11,7 @@
   <content>Document._ДемоСписаниеТоваров</content>
   <content>Role._ДемоПечатьСчетаНаОплатуНаПринтер</content>
   <content>DocumentJournal._ДемоСкладскиеДокументы</content>
-  <content>Catalog._ДемоОрганизации</content>
+  <content>Catalog.Организации</content>
   <content>DataProcessor._ДемоПечатьКарточкиОрганизации</content>
   <content>InformationRegister._ДемоРеестрСкладскихДокументов</content>
   <parentSubsystem>Subsystem._ДемоИнтегрируемыеПодсистемыПродолжение.Subsystem._ДемоПечать</parentSubsystem>

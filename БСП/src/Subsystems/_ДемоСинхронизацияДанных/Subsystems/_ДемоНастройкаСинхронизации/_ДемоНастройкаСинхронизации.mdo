@@ -11,7 +11,7 @@
   <content>CommonCommand._ДемоРаспределеннаяИнформационнаяБаза</content>
   <content>CommandGroup._ДемоНастроитьСинхронизациюДанных</content>
   <content>Catalog.СценарииОбменовДанными</content>
-  <content>Catalog._ДемоОрганизации</content>
+  <content>Catalog.Организации</content>
   <content>InformationRegister._ДемоОтветственныеЛица</content>
   <content>Catalog._ДемоМестаХранения</content>
   <content>Catalog._ДемоПодразделения</content>

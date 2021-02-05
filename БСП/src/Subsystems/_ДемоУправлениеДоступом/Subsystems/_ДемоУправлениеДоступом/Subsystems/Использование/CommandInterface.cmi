@@ -219,7 +219,7 @@
       <commands>Document.ТелефонныйЗвонок.StandardCommand.OpenList</commands>
       <commands>Catalog.УчетныеЗаписиЭлектроннойПочты.StandardCommand.OpenList</commands>
       <commands>Catalog._ДемоДоговорыКонтрагентов.StandardCommand.OpenList</commands>
-      <commands>Catalog._ДемоОрганизации.StandardCommand.OpenList</commands>
+      <commands>Catalog.Организации.StandardCommand.OpenList</commands>
     </orderFragments>
   </commandsOrder>
 </cmi:CommandInterface>

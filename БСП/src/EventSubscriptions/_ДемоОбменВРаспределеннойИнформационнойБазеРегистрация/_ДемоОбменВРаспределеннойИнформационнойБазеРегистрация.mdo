@@ -30,7 +30,7 @@
     <types>CatalogObject.ПользовательскиеНастройкиОтчетов</types>
     <types>CatalogObject._ДемоГруппыДоступаПартнеров</types>
     <types>CatalogObject._ДемоФизическиеЛица</types>
-    <types>CatalogObject._ДемоОрганизации</types>
+    <types>CatalogObject.Организации</types>
     <types>ChartOfCharacteristicTypesObject._ДемоВидыСубконто</types>
     <types>CatalogObject.Заметки</types>
     <types>CatalogObject._ДемоПартнеры</types>

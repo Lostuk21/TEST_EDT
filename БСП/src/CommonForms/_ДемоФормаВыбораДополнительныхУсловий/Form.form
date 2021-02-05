@@ -535,7 +535,7 @@
       <id>1</id>
       <valueType>
         <types>String</types>
-        <types>CatalogRef._ДемоОрганизации</types>
+        <types>CatalogRef.Организации</types>
         <stringQualifiers>
           <length>50</length>
         </stringQualifiers>

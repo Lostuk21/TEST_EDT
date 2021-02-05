@@ -137,7 +137,7 @@
       <value>Организация</value>
     </synonym>
     <type>
-      <types>CatalogRef._ДемоОрганизации</types>
+      <types>CatalogRef.Организации</types>
     </type>
     <toolTip>
       <key>ru</key>
@@ -151,7 +151,7 @@
     <dataHistory>Use</dataHistory>
     <fillFromFillingValue>true</fillFromFillingValue>
     <fillValue xsi:type="core:ReferenceValue">
-      <value>Catalog._ДемоОрганизации.EmptyRef</value>
+      <value>Catalog.Организации.EmptyRef</value>
     </fillValue>
     <master>true</master>
     <mainFilter>true</mainFilter>
@@ -206,7 +206,7 @@
     </synonym>
     <group>FormNavigationPanelGoTo</group>
     <commandParameterType>
-      <types>CatalogRef._ДемоОрганизации</types>
+      <types>CatalogRef.Организации</types>
     </commandParameterType>
     <representation>Auto</representation>
     <shortcut></shortcut>

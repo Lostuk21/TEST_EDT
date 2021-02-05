@@ -3968,7 +3968,7 @@
       </title>
       <id>2</id>
       <valueType>
-        <types>CatalogRef._ДемоОрганизации</types>
+        <types>CatalogRef.Организации</types>
       </valueType>
       <view>
         <common>true</common>
